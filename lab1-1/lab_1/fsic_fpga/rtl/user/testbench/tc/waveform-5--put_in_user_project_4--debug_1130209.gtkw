@@ -1,0 +1,172 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Fri Feb  9 12:06:09 2024
+[*]
+[dumpfile] "/home/ubuntu/Advanced_SoC/lab_1/fsic_fpga/rtl/user/testbench/tc/FSIC_FIR.vcd"
+[dumpfile_mtime] "Fri Feb  9 11:52:57 2024"
+[dumpfile_size] 25827203
+[savefile] "/home/ubuntu/Advanced_SoC/lab_1/fsic_fpga/rtl/user/testbench/tc/waveform-5--put_in_user_project_4--debug_1130209.gtkw"
+[timestart] 1506700
+[size] 1848 903
+[pos] -1 -1
+*-17.216619 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_fsic.
+[treeopen] tb_fsic.dut.
+[treeopen] tb_fsic.dut.U_USER_SUBSYS0.
+[treeopen] tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ0.
+[treeopen] tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ1.
+[sst_width] 233
+[signals_width] 286
+[sst_expanded] 1
+[sst_vpaned_height] 249
+@28
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ0.axis_clk
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ0.axis_rst_n
+tb_fsic.dut.U_CFG_CTRL0.user_prj_sel[4:0]
+@22
+tb_fsic.cfg_read_data_captured[31:0]
+tb_fsic.cfg_read_data_expect_value[31:0]
+@28
+tb_fsic.wbs_stb
+tb_fsic.wbs_sel[3:0]
+tb_fsic.wbs_we
+@23
+tb_fsic.wbs_adr[31:0]
+@22
+tb_fsic.wbs_wdata[31:0]
+@28
+tb_fsic.wbs_ack
+@22
+tb_fsic.wbs_rdata[31:0]
+@800028
+tb_fsic.dut.U_USER_SUBSYS0.U_AXIL_SLAV0.axi_rvalid_bus[3:0]
+@28
+(0)tb_fsic.dut.U_USER_SUBSYS0.U_AXIL_SLAV0.axi_rvalid_bus[3:0]
+(1)tb_fsic.dut.U_USER_SUBSYS0.U_AXIL_SLAV0.axi_rvalid_bus[3:0]
+(2)tb_fsic.dut.U_USER_SUBSYS0.U_AXIL_SLAV0.axi_rvalid_bus[3:0]
+(3)tb_fsic.dut.U_USER_SUBSYS0.U_AXIL_SLAV0.axi_rvalid_bus[3:0]
+@22
+tb_fsic.dut.U_USER_SUBSYS0.U_AXIL_SLAV0.rdata_0[31:0]
+tb_fsic.dut.U_USER_SUBSYS0.U_AXIL_SLAV0.rdata_1[31:0]
+tb_fsic.dut.U_USER_SUBSYS0.U_AXIL_SLAV0.rdata_2[31:0]
+tb_fsic.dut.U_USER_SUBSYS0.U_AXIL_SLAV0.rdata_3[31:0]
+tb_fsic.dut.U_USER_SUBSYS0.U_AXIL_SLAV0.axi_rdata[31:0]
+tb_fsic.dut.U_USER_SUBSYS0.U_AXIL_SLAV0.user_prj_sel[4:0]
+@200
+-
+@22
+tb_fsic.dut.U_USER_SUBSYS0.U_AXIL_SLAV0.axi_rdata_bus_0[31:0]
+tb_fsic.dut.U_USER_SUBSYS0.U_AXIL_SLAV0.axi_rdata_bus_1[31:0]
+@1001200
+-group_end
+@200
+-
+@28
+tb_fsic.fpga_as_is_tready
+tb_fsic.fpga_as_is_tvalid
+@420
+tb_fsic.fpga_as_is_tdata[31:0]
+@28
+tb_fsic.fpga_as_is_tlast
+@200
+-
+@28
+tb_fsic.fpga_is_as_tready
+tb_fsic.fpga_is_as_tvalid
+@420
+tb_fsic.fpga_is_as_tdata[31:0]
+@28
+tb_fsic.fpga_is_as_tlast
+@200
+-
+-user project 0
+@28
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ0.awready
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ0.awvalid
+@22
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ0.awaddr[11:0]
+@28
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ0.wready
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ0.wvalid
+@22
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ0.wdata[31:0]
+@200
+-
+@28
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ0.arready
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ0.arvalid
+@22
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ0.araddr[11:0]
+@28
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ0.rready
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ0.rvalid
+@22
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ0.rdata[31:0]
+@200
+-
+@28
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ0.ss_tready
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ0.ss_tvalid
+@24
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ0.ss_tdata[31:0]
+@28
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ0.ss_tlast
+@200
+-
+@28
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ0.sm_tready
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ0.sm_tvalid
+@420
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ0.sm_tdata[31:0]
+@28
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ0.sm_tlast
+@200
+-
+-in fir.v
+-
+-
+-user project 1
+@28
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ1.awready
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ1.awvalid
+@22
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ1.awaddr[11:0]
+@28
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ1.wready
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ1.wvalid
+@22
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ1.wdata[31:0]
+@200
+-
+@28
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ1.arready
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ1.arvalid
+@22
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ1.araddr[11:0]
+@28
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ1.rready
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ1.rvalid
+@22
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ1.rdata[31:0]
+@200
+-
+@28
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ1.ss_tready
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ1.ss_tvalid
+@22
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ1.ss_tdata[31:0]
+@28
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ1.ss_tlast
+@200
+-
+@28
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ1.sm_tready
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ1.sm_tvalid
+@22
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ1.sm_tdata[31:0]
+@28
+tb_fsic.dut.U_USER_SUBSYS0.U_USRPRJ1.sm_tlast
+@200
+-
+[pattern_trace] 1
+[pattern_trace] 0
