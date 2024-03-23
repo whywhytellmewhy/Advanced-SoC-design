@@ -15,3 +15,8 @@ This repository is created on 2024.3.1~
    | Testbench | /Testbench/filelist | /lab_1/fsic_fpga/rtl/user/testbench/tc/filelist |
    | Testbench | /Testbench/tb_fsic.v | /lab_1/fsic_fpga/rtl/user/testbench/tb_fsic.v |
    | Testbench<br/>(after integrating fir.v into design) | /Testbench/xsim.log | /lab_1/fsic_fpga/rtl/user/testbench/tc/xsim.log |
+3. To run the simulation of the testbench, use the following commands:
+   ```
+   cd /lab_1/fsic_fpga/rtl/user/testbench/tc
+   ./run_xsim
+   ```
