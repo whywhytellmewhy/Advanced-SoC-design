@@ -52,7 +52,7 @@ This repository is created on 2024.3.1~
 3. 相關的report及presentation檔案有上傳到 [/bol-edu/2024-Advanced-SOC/nthu/Team6--Optical_Flow](https://github.com/bol-edu/2024-Advanced-SOC/tree/main/nthu/Team6--Optical_Flow)，檔案說明如下：
    1. `Final_project_proposal_Team6.pptx`為proposal報告時所搭配的簡報檔，也是繳交至NTHU eeclass上的Final project proposal檔案
    2. `Final_project_intermediate_status_report_Team6.pdf`為繳交至NTHU eeclass上的Final project intermediate status report檔案
-   3. `Final_project_presentation_Team6.pptx`為Final project presentation報告時所搭配的簡報檔，此與上傳至 [ASoC Design 課程教材連結](https://drive.google.com/drive/folders/1cGNs2LfW5ZdoaEpi_Nh6iANl7V4f6rtv?usp=sharing)中的`/lab-presentation/nthu/final-project-presentation`是相同的檔案，但與繳交至NTHU eeclass上的Final project presentation檔案並不相同，而是更新的版本
+   3. `Final_project_presentation_Team6.pptx`為[Final project presentation報告](https://www.youtube.com/watch?v=nXY4YCJLHuk&list=PLTA_T2FLzYNBtCq70wCKWC5lS8P3_DVHI&index=3)時所搭配的簡報檔，此與上傳至 [ASoC Design 課程教材連結](https://drive.google.com/drive/folders/1cGNs2LfW5ZdoaEpi_Nh6iANl7V4f6rtv?usp=sharing)中的`/lab-presentation/nthu/final-project-presentation`是相同的檔案，但與繳交至NTHU eeclass上的Final project presentation檔案並不相同，而是更新的版本
    4. `Final_project_report_Team6.pdf`為繳交至NTHU eeclass上的**report檔案**
 
 4. 沒有上傳「檔案太大(超過100MB)」的檔案（透過`run_list_big_files`偵測，且透過`run_delete_big_files`刪除），包含2個`.vcd`檔及2個`.wdb`檔
