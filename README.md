@@ -40,3 +40,21 @@ This repository is created on 2024.3.1~
    6. Generate bistream
    7. 將產生的.bit及.hwh檔放置於`/ASoC_lab4_FSIC_FPGA/vivado/jupyter_notebook_fir`資料夾
    8. 上傳相關檔案至 onlineFPGA，如[Github協作repository](https://github.com/ZheChen-Bill/ASoC_lab4_FSIC_FPGA/tree/main/vivado/jupyter_notebook_result)中的README.md的敘述
+
+## Final project (Team work)
+1. 此work是從 [lab4 的 repository](https://github.com/ZheChen-Bill/ASoC_lab4_FSIC_FPGA) 為基底，所繼續發展而來，並放在[這個Github小組協作repository](https://github.com/whywhytellmewhy/ASoC-Final_project-optical_flow)中，更詳細的實作流程的說明可參閱上述「Github小組協作repository」中的「README.md」
+
+2. Final project的時程回顧
+   | Proposal簡報檔繳交期限 | Proposal presentation<br/>(實體口頭報告) | lab5_fsic-ap<br/>(HLS實作進度) report繳交期限 | Intermediate status report | Final presentation簡報檔繳交期限 | Final presentation<br/>(實體口頭報告) | Final Report繳交期限 |
+   |:---------:|:---------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+   | 2024.5.1 8:00 | 2024.5.1 | 2024.6.9 | 2024.6.14 | 2024.6.19 8:00 | 2024.6.19 | 2024.6.23 23:59 |
+
+3. 相關的report及presentation檔案有上傳到 [/bol-edu/2024-Advanced-SOC/nthu/Team6--Optical_Flow](https://github.com/bol-edu/2024-Advanced-SOC/tree/main/nthu/Team6--Optical_Flow)，檔案說明如下：
+   1. `Final_project_proposal_Team6.pptx`為proposal報告時所搭配的簡報檔，也是繳交至NTHU eeclass上的Final project proposal檔案
+   2. `Final_project_intermediate_status_report_Team6.pdf`為繳交至NTHU eeclass上的Final project intermediate status report檔案
+   3. `Final_project_presentation_Team6.pptx`為Final project presentation報告時所搭配的簡報檔，此與上傳至 [ASoC Design 課程教材連結](https://drive.google.com/drive/folders/1cGNs2LfW5ZdoaEpi_Nh6iANl7V4f6rtv?usp=sharing)中的`/lab-presentation/nthu/final-project-presentation`是相同的檔案，但與繳交至NTHU eeclass上的Final project presentation檔案並不相同，而是更新的版本
+   4. `Final_project_report_Team6.pdf`為繳交至NTHU eeclass上的**report檔案**
+
+4. 沒有上傳「檔案太大(超過100MB)」的檔案（透過`run_list_big_files`偵測，且透過`run_delete_big_files`刪除），包含2個`.vcd`檔及2個`.wdb`檔
+
+
